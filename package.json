@@ -41,5 +41,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "json-server": "^0.17.2"
   }
 }
